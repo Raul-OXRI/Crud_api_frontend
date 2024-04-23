@@ -62,3 +62,21 @@ centra en sus casos de uso más comunes y en una maravillosa experiencia para lo
 ```
 composer require guzzlehttp/guzzle
 ```
+
+
+
+
+---
+
+
+este es el aparatado es apuntes de extras:
+
+linea 533
+#### aseder a los permisos lado de la api
+```
+php artisan db:seed --class PermissionSeeder
+```
+
+#### resetear los permisos del apartado
+
+
