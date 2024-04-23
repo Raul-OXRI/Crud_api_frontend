@@ -46,5 +46,19 @@ Tmabien se utilizo TABLE PLUS para visualizacion de BD:
 #### Para levanatar el servidor local:
 
 ```
-php artisan server
+php artisan serve
+```
+
+#### Creacion de controladores 
+
+```
+php artisan make:controller ClientesController
+```
+
+#### Solicitudes HTTP Guzzle
+
+centra en sus casos de uso más comunes y en una maravillosa experiencia para los desarrolladores
+
+```
+composer require guzzlehttp/guzzle
 ```
