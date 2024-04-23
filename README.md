@@ -80,3 +80,8 @@ php artisan db:seed --class PermissionSeeder
 #### resetear los permisos del apartado
 
 
+#### añadir nuevo campo/columna para una tebla:
+
+```
+ php artisan make:migration add_column_to_'name de table'_table
+```
